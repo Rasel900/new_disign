@@ -1,0 +1,106 @@
+
+
+h1{
+    font-size: 64px;
+    line-height: 76px;
+}
+h2{
+    
+}
+
+.other p{
+    font-size: 12px;
+}
+
+
+/* banner-srtat */
+.banner-area{
+    display: flex;
+    margin-left: 300px;
+    margin-top: 100px;  
+}
+.bnerstyle-text h1{
+    color: #232f3e;
+    font-weight: 900;
+}
+.bnerstyle-text p{
+    color: #6c7778;
+    font-size: 20px;
+}
+.img-item img{
+    height: 400px;
+    width: 400px;
+}
+.custom-btn{
+    background-color: #f90;
+    color: black;
+    height: 50px;
+    width: 150px;
+    border: 2px solid #f90;
+    border-radius: 50px;
+    cursor: pointer;
+    
+}
+.custom-btn p{
+    color: #232f3e;
+    text-align: center;
+    margin-top: 6px;
+    font-weight: 600;
+}
+.textfree p{
+    font-size: 12px;
+    text-align: auto;
+    line-height: 33px;
+}
+/* .banner-area end */
+.full-custom{
+    margin-top: 5%;
+}
+.custom-1{
+    margin-left: 15px;
+    height: 300px;
+    width: 350;
+    background-color: rgb(245, 245, 243);
+    border-radius: 11px;
+}
+.custom-1 p{
+    color: #6c7778;
+    font-size:16px;
+    font-weight: 400;
+    text-align: center;
+}
+.custom-1 h2{
+    margin-top: 50px;
+    font-size: 30px;
+    font-weight: 600;
+    text-align: center;
+}
+
+
+.all-port{
+    margin-top: 10%;
+    height: 500px;
+    background-color: #232f3e;
+}
+.add-class h6{
+    margin-top: 50px;
+    color: aliceblue;
+    font-size: 14px;
+}
+.add-class h2{
+    color: #0099d9;
+    font-size:50px;
+    font-weight: 600;
+    margin-top: 50px;
+}
+.add-class p{
+    color:#fafafa;
+    font-size: 26px;
+    font-weight: 400;
+    margin-top: 30px;
+}
+.add-class-2{
+    margin-top: 100px;
+    margin-left: 40px;
+    
+}
